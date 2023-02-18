@@ -2,3 +2,4 @@ i am learning git and github so this is just a demo purpose which is like practi
 this is 2nd time i am coding in this programm although it is not coding as i mentioned before i am learning github so that is ..
 this is code when i made new branche
 new code in main branch
+this is new code for trying resloving error
